@@ -8,6 +8,6 @@ public class Test {
 		
 		String hr = s.hr("张三2");
 		System.out.println(hr);
-		//s/da
+		//s/dabdg gd hfdg
 	}
 }
